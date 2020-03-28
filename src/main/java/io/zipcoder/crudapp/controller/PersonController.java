@@ -1,7 +1,6 @@
 package io.zipcoder.crudapp.controller;
 
 import io.zipcoder.crudapp.entity.Person;
-import io.zipcoder.crudapp.repository.PersonRepository;
 import io.zipcoder.crudapp.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
